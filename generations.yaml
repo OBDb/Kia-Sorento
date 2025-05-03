@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (BL)"
+    start_year: 2002
+    end_year: 2009
+    description: "The first generation Kia Sorento was a traditional body-on-frame SUV, focusing on rugged off-road capability with four-wheel drive featuring low-range gearing. Powered primarily by a 3.5L V6 engine (later a 3.8L V6 in some markets) or a 2.5L diesel engine in others, it targeted buyers seeking a capable SUV at a value price point. The interior was basic but functional, with seating for five and limited luxury features. This generation established the Sorento nameplate in the midsize SUV segment, appealing to those who wanted genuine off-road capability and towing capacity without the premium price tag of established competitors."
+
+  - name: "Second Generation (XM)"
+    start_year: 2010
+    end_year: 2015
+    description: "The second generation marked a significant shift for the Sorento, moving from a body-on-frame construction to a unibody platform shared with the Hyundai Santa Fe. This transition prioritized on-road comfort, fuel efficiency, and interior space over the previous generation's off-road focus. Available in both 5 and 7-seat configurations, it offered improved interior quality and technology features. Powertrain options included 2.4L and 3.5L gasoline engines in North America, with various diesel options in other markets. The second generation represented Kia's move toward more refined, family-oriented vehicles while maintaining a value proposition in the competitive midsize crossover segment."
+
+  - name: "Third Generation (UM)"
+    start_year: 2016
+    end_year: 2020
+    description: "The third generation Sorento continued the evolution toward a more premium crossover with significantly improved interior quality, technology integration, and driving dynamics. The exterior styling became more sophisticated, reflecting Kia's design renaissance under Peter Schreyer. Slightly larger than its predecessor, it offered more comfortable seating for up to seven passengers across three rows. Powertrain options included a 2.4L four-cylinder, 3.3L V6, and a 2.2L diesel in select markets, paired with six-speed automatic transmissions and available all-wheel drive. Technology features expanded to include larger touchscreen interfaces, advanced driver assistance systems, and premium audio options. This generation firmly established the Sorento as a competitive player in the midsize crossover segment, appealing to families seeking value alongside increasingly premium features."
+
+  - name: "Fourth Generation (MQ4)"
+    start_year: 2021
+    end_year: null
+    description: "The fourth generation Sorento represents a dramatic advancement in design, technology, and powertrain options. Built on Kia's new N3 platform, it features a more angular, bold exterior design with distinctive vertical taillights and a more prominent grille. The interior makes a substantial leap in quality and technology, featuring available dual 10.25-inch displays, quilted leather seating, and ambient lighting. Standard seating configuration accommodates six or seven passengers with improved third-row access. Powertrain options expanded significantly to include a 2.5L four-cylinder, 2.5L turbocharged four-cylinder, a 1.6L turbocharged hybrid producing 227 HP, and a plug-in hybrid variant offering approximately 30 miles of electric range. Advanced driver assistance systems come standard across most trims, including forward collision avoidance, adaptive cruise control, and lane-keeping assist. The X-Line trim offers increased ground clearance and improved all-wheel-drive capability for light off-road use. This generation positions the Sorento as a technology showcase for Kia, bridging the gap between the compact Sportage and full-size Telluride while offering the most diverse powertrain lineup in its class."
