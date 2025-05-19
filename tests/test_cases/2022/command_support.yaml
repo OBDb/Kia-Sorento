@@ -121,6 +121,7 @@ unsupported_commands_by_ecu:
   7E2:
   - 7E2.7EA.22E004
   7E4:
+  - 7E4.7EC.2102
   - 7E4.7EC.2104
   - 7E4.7EC.2105
   - 7E4.7EC.220101
