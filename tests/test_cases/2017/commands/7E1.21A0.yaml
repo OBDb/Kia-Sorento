@@ -1,6 +1,9 @@
-command_id: 7E1.7E9.21A0
+command_id: 7E1.21A0
 test_cases:
-- response: |-
+- expected_values:
+    KIA_ATF_T: 72
+    KIA_VSS_V3: 0
+  response: |-
     7E9103761A0FFFF07FC
     7E92109C6001100098A
     7E9220000700000083E
@@ -9,10 +12,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444400000000
-  expected_values:
+- expected_values:
     KIA_ATF_T: 72
     KIA_VSS_V3: 0
-- response: |-
+  response: |-
     7E9103761A0FFFF07FC
     7E9210A0000130009D4
     7E92200007000000856
@@ -21,10 +24,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444400000000
-  expected_values:
-    KIA_ATF_T: 72
+- expected_values:
+    KIA_ATF_T: 73
     KIA_VSS_V3: 0
-- response: |-
+  response: |-
     7E9103761A0FFFF07FC
     7E9210A1600100009AE
     7E92200007100000866
@@ -33,10 +36,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444400000000
-  expected_values:
-    KIA_ATF_T: 73
+- expected_values:
+    KIA_ATF_T: 72
     KIA_VSS_V3: 0
-- response: |-
+  response: |-
     7E9103761A0FFFF07FC
     7E9210A2800140009D0
     7E9220000700000085A
@@ -45,10 +48,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444400000000
-  expected_values:
-    KIA_ATF_T: 72
+- expected_values:
+    KIA_ATF_T: 73
     KIA_VSS_V3: 0
-- response: |-
+  response: |-
     7E9103761A0FFFF07FC
     7E9210A30000F0009E0
     7E92200007100000848
@@ -57,10 +60,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444400000000
-  expected_values:
+- expected_values:
     KIA_ATF_T: 73
     KIA_VSS_V3: 0
-- response: |-
+  response: |-
     7E9103761A0FFFF07FC
     7E9210C300010000BDA
     7E92200007100000854
@@ -69,10 +72,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444400000000
-  expected_values:
+- expected_values:
     KIA_ATF_T: 73
-    KIA_VSS_V3: 0
-- response: |-
+    KIA_VSS_V3: 12
+  response: |-
     7E9103761A0FFFF07FC
     7E9211A060C3F4A1556
     7E92204927112360CB4
@@ -81,10 +84,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D54444153A0790
-  expected_values:
-    KIA_ATF_T: 73
-    KIA_VSS_V3: 12
-- response: |-
+- expected_values:
+    KIA_ATF_T: 72
+    KIA_VSS_V3: 22
+  response: |-
     7E9103761A0FFFF07FC
     7E9211ACE162B3617B8
     7E9220860700B100B16
@@ -93,10 +96,10 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444417B01412
-  expected_values:
-    KIA_ATF_T: 72
-    KIA_VSS_V3: 22
-- response: |-
+- expected_values:
+    KIA_ATF_T: 73
+    KIA_VSS_V3: 32
+  response: |-
     7E9103761A0FFFF07FC
     7E92123DE203F4520FA
     7E9220BA4710B0E0AB8
@@ -105,6 +108,3 @@ test_cases:
     7E92500000000000000
     7E926014305B7009FFC
     7E927D5444420F01A2C
-  expected_values:
-    KIA_ATF_T: 73
-    KIA_VSS_V3: 32
