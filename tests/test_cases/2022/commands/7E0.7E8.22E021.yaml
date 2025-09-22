@@ -1,4 +1,4 @@
-command_id: 7E0.22E021
+command_id: 7E0.7E8.22E021
 test_cases:
 - expected_values:
     KIA_TURBO_BOOST: 1.88239
