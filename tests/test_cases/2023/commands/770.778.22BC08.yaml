@@ -1,22 +1,62 @@
 command_id: 770.778.22BC08
 test_cases:
 - expected_values:
-    KIA_TURN_R: 1
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
+  response: |-
+    778100B62BC08A05790
+    77821BC00000018AAAA
+- expected_values:
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
+  response: |-
+    778100B62BC08A05790
+    77821BC0000001CAAAA
+- expected_values:
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
+  response: |-
+    778100B62BC08A05790
+    77821BC0000011CAAAA
+- expected_values:
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
+  response: |-
+    778100B62BC08A05790
+    77821BC0002001CAAAA
+- expected_values:
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
+  response: |-
+    778100B62BC08A05790
+    77821BC0002011CAAAA
+- expected_values:
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
+  response: |-
+    778100B62BC08A05790
+    77821BC0008011CAAAA
+- expected_values:
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
   response: |-
     778100B62BC08A05790
     77821BC0100011CAAAA
 - expected_values:
-    KIA_TURN_R: 1
+    KIA_TURN_L: 1
+    KIA_TURN_R: 0
   response: |-
     778100B62BC08A05790
     77821BC0200011CAAAA
 - expected_values:
+    KIA_TURN_L: 0
     KIA_TURN_R: 1
   response: |-
     778100B62BC08A05790
     77821BC0400011CAAAA
 - expected_values:
-    KIA_TURN_R: 1
+    KIA_TURN_L: 0
+    KIA_TURN_R: 0
   response: |-
     778100B62BC08A05790
     77821BC0800011CAAAA
