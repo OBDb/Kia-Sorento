@@ -78,6 +78,17 @@ test_cases:
     7DE219E400000A44200
     7DE22009C3E0000FFFF
 - expected_values:
+    KIA_TP_1: 4153.6
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4051.3
+    KIA_TT_1: 256
+    KIA_TT_2: -23744
+    KIA_TT_3: 256
+  response: |-
+    7DE10126106A2400100
+    7DE219F400100A34001
+    7DE22009E410100FFFF
+- expected_values:
     KIA_TP_1: 4282.2
     KIA_TP_2: 25.6
     KIA_TP_3: 4256.9
@@ -87,17 +98,6 @@ test_cases:
   response: |-
     7DE10126106A7460100
     7DE21A0410100A54101
-    7DE2200A6490100FFFF
-- expected_values:
-    KIA_TP_1: 4307.9
-    KIA_TP_2: 25.6
-    KIA_TP_3: 4256.9
-    KIA_TT_1: 256
-    KIA_TT_2: -23487
-    KIA_TT_3: 256
-  response: |-
-    7DE10126106A8470100
-    7DE219F400100A44101
     7DE2200A6490100FFFF
 - expected_values:
     KIA_TP_1: 4410.2
