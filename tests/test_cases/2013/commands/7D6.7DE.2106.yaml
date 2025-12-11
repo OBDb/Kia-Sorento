@@ -71,11 +71,11 @@ test_cases:
     KIA_TP_2: 0
     KIA_TP_3: 3999.8
     KIA_TT_1: 0
-    KIA_TT_2: -23486
+    KIA_TT_2: -23743
     KIA_TT_3: 0
   response: |-
     7DE10126106A1400000
-    7DE219E400000A44200
+    7DE219D3E0000A34100
     7DE22009C3E0000FFFF
 - expected_values:
     KIA_TP_1: 4153.6
