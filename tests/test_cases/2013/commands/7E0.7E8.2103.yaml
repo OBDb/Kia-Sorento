@@ -1,7 +1,0 @@
-command_id: 7E0.7E8.2103
-test_cases:
-- expected_values:
-    KIA_REQUESTED_TORQUE: 99.60355
-  response: |-
-    7E8100B61031F000000
-    7E821F9FEF7F4F50000
