@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Sorento"
+
 generations:
   - name: "First Generation (BL)"
     start_year: 2002
@@ -10,7 +13,7 @@ generations:
     description: "The second generation marked a significant shift for the Sorento, moving from a body-on-frame construction to a unibody platform shared with the Hyundai Santa Fe. This transition prioritized on-road comfort, fuel efficiency, and interior space over the previous generation's off-road focus. Available in both 5 and 7-seat configurations, it offered improved interior quality and technology features. Powertrain options included 2.4L and 3.5L gasoline engines in North America, with various diesel options in other markets. The second generation represented Kia's move toward more refined, family-oriented vehicles while maintaining a value proposition in the competitive midsize crossover segment."
 
   - name: "Third Generation (UM)"
-    start_year: 2016
+    start_year: 2014
     end_year: 2020
     description: "The third generation Sorento continued the evolution toward a more premium crossover with significantly improved interior quality, technology integration, and driving dynamics. The exterior styling became more sophisticated, reflecting Kia's design renaissance under Peter Schreyer. Slightly larger than its predecessor, it offered more comfortable seating for up to seven passengers across three rows. Powertrain options included a 2.4L four-cylinder, 3.3L V6, and a 2.2L diesel in select markets, paired with six-speed automatic transmissions and available all-wheel drive. Technology features expanded to include larger touchscreen interfaces, advanced driver assistance systems, and premium audio options. This generation firmly established the Sorento as a competitive player in the midsize crossover segment, appealing to families seeking value alongside increasingly premium features."
 
