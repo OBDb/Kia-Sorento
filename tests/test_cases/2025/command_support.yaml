@@ -80,6 +80,7 @@ supported_commands_by_ecu:
   - 0121:MIL_DIST
   - 0130:WARM_UPS
   - 0131:CLR_DIST
+  - 7E7.7EF.0131
   - 7E7.7EF.22C101:KIA_TIRE_FL_SPD,KIA_TIRE_FR_SPD,KIA_TIRE_RL_SPD,KIA_TIRE_RR_SPD
 unsupported_commands_by_ecu:
   "744":
