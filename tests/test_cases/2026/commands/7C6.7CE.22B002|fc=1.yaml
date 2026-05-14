@@ -1,6 +1,17 @@
 command_id: 7C6.7CE.22B002|fc=1
 test_cases:
 - expected_values:
+    KIA_CLUSTER_VOLTAGE: 11.875
+    KIA_FLI_VOL: 6
+    KIA_FLI_VOL_THIRDGEN: 3
+    KIA_ODO_KM: 0
+    KIA_ODO_MI: 327
+    KIA_VPWR: 11.875
+  response: |-
+    7CE101462B002D00000
+    7CE2100069800000000
+    7CE2201470000000000
+- expected_values:
     KIA_CLUSTER_VOLTAGE: 12.5
     KIA_FLI_VOL: 6
     KIA_FLI_VOL_THIRDGEN: 3
