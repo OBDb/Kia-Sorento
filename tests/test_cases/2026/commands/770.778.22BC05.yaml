@@ -3,5 +3,11 @@ test_cases:
 - expected_values:
     KIA_HAZARD_SW: 0
   response: |-
+    22BC05
+    778100862BC05800000
+    778210000AAAAAAAAAA
+- expected_values:
+    KIA_HAZARD_SW: 0
+  response: |-
     778100862BC05800000
     778210000AAAAAAAAAA
