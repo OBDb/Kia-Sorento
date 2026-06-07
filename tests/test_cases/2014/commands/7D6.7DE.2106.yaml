@@ -1,0 +1,21 @@
+command_id: 7D6.7DE.2106
+test_cases:
+- expected_values:
+    KIA_FL_TP: 1.95811
+    KIA_FL_TT: 25
+    KIA_FR_TP: 1.9719
+    KIA_FR_TT: 29
+    KIA_RL_TP: 1.98569
+    KIA_RL_TT: 28
+    KIA_RR_TP: 1.94432
+    KIA_RR_TT: 25
+    KIA_TP_1: 3642.7
+    KIA_TP_2: 0
+    KIA_TP_3: 3617.1
+    KIA_TT_1: 0
+    KIA_TT_2: -28594
+    KIA_TT_3: 0
+  response: |-
+    7DE101261068E4B0000
+    7DE218F4F0000904E00
+    7DE22008D4B00003535
