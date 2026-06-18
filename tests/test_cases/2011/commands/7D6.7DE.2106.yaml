@@ -1,6 +1,25 @@
 command_id: 7D6.7DE.2106
 test_cases:
 - expected_values:
+    KIA_FL_TP: 2.08222
+    KIA_FL_TT: 15
+    KIA_FR_TP: 2.06843
+    KIA_FR_TT: 12
+    KIA_RL_TP: 2.05464
+    KIA_RL_TT: 12
+    KIA_RR_TP: 2.12359
+    KIA_RR_TT: 14
+    KIA_TP_1: 3872.1
+    KIA_TP_2: 25.6
+    KIA_TP_3: 3948.8
+    KIA_TT_1: 256
+    KIA_TT_2: -27330
+    KIA_TT_3: 256
+  response: |-
+    7DE1012610697410100
+    7DE21963E0100953E01
+    7DE22009A400100FFFF
+- expected_values:
     KIA_FL_TP: 2.09601
     KIA_FL_TT: 15
     KIA_FR_TP: 2.09601
@@ -39,24 +58,81 @@ test_cases:
     7DE2198400100974001
     7DE22009B430200FFFF
 - expected_values:
-    KIA_FL_TP: 2.15117
-    KIA_FL_TT: 20
-    KIA_FR_TP: 2.16495
-    KIA_FR_TT: 20
-    KIA_RL_TP: 2.12359
-    KIA_RL_TT: 19
-    KIA_RR_TP: 2.19253
-    KIA_RR_TT: 19
-    KIA_TP_1: 4000.6
-    KIA_TP_2: 0
-    KIA_TP_3: 4077.3
+    KIA_FL_TP: 2.1098
+    KIA_FL_TT: 15
+    KIA_FR_TP: 2.09601
+    KIA_FR_TT: 12
+    KIA_RL_TP: 2.08222
+    KIA_RL_TT: 13
+    KIA_RR_TP: 2.15117
+    KIA_RR_TT: 14
+    KIA_TP_1: 3923.3
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4000
+    KIA_TT_1: 256
+    KIA_TT_2: -26817
+    KIA_TT_3: 256
+  response: |-
+    7DE1012610699410100
+    7DE21983E0100973F01
+    7DE22009C400100FFFF
+- expected_values:
+    KIA_FL_TP: 2.1098
+    KIA_FL_TT: 17
+    KIA_FR_TP: 2.06843
+    KIA_FR_TT: 12
+    KIA_RL_TP: 2.08222
+    KIA_RL_TT: 16
+    KIA_RR_TP: 2.16495
+    KIA_RR_TT: 18
+    KIA_TP_1: 3923.5
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4026
     KIA_TT_1: 0
-    KIA_TT_2: -26043
+    KIA_TT_2: -26814
     KIA_TT_3: 0
   response: |-
-    7DE101261069C460000
-    7DE219D4600009A4500
-    7DE22009F450000FFFF
+    7DE1012610699430000
+    7DE21963E0100974200
+    7DE22009D440000FFFF
+- expected_values:
+    KIA_FL_TP: 2.1098
+    KIA_FL_TT: 17
+    KIA_FR_TP: 2.09601
+    KIA_FR_TT: 15
+    KIA_RL_TP: 2.08222
+    KIA_RL_TT: 16
+    KIA_RR_TP: 2.16495
+    KIA_RR_TT: 18
+    KIA_TP_1: 3923.5
+    KIA_TP_2: 0
+    KIA_TP_3: 4026
+    KIA_TT_1: 0
+    KIA_TT_2: -26814
+    KIA_TT_3: 0
+  response: |-
+    7DE1012610699430000
+    7DE2198410000974200
+    7DE22009D440000FFFF
+- expected_values:
+    KIA_FL_TP: 2.13738
+    KIA_FL_TT: 15
+    KIA_FR_TP: 2.1098
+    KIA_FR_TT: 13
+    KIA_RL_TP: 2.09601
+    KIA_RL_TT: 13
+    KIA_RR_TP: 2.16495
+    KIA_RR_TT: 15
+    KIA_TP_1: 3974.5
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4025.7
+    KIA_TT_1: 256
+    KIA_TT_2: -26561
+    KIA_TT_3: 256
+  response: |-
+    7DE101261069B410100
+    7DE21993F0100983F01
+    7DE22009D410100FFFF
 - expected_values:
     KIA_FL_TP: 2.16495
     KIA_FL_TT: 18
@@ -170,25 +246,6 @@ test_cases:
   response: |-
     7DE10126106A3500100
     7DE21A34C0100A24C01
-    7DE2200A7510000FFFF
-- expected_values:
-    KIA_FL_TP: 2.26148
-    KIA_FL_TT: 29
-    KIA_FR_TP: 2.26148
-    KIA_FR_TT: 27
-    KIA_RL_TP: 2.2339
-    KIA_RL_TT: 26
-    KIA_RR_TP: 2.30285
-    KIA_RR_TT: 31
-    KIA_TP_1: 4206.3
-    KIA_TP_2: 0
-    KIA_TP_3: 4283.3
-    KIA_TT_1: 0
-    KIA_TT_2: -23988
-    KIA_TT_3: 0
-  response: |-
-    7DE10126106A44F0000
-    7DE21A44D0000A24C00
     7DE2200A7510000FFFF
 - expected_values:
     KIA_FL_TP: 2.28906
