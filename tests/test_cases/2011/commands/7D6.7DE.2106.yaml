@@ -212,22 +212,22 @@ test_cases:
 - expected_values:
     KIA_FL_TP: 2.20632
     KIA_FL_TT: 21
-    KIA_FR_TP: 2.22011
-    KIA_FR_TT: 21
+    KIA_FR_TP: 2.20632
+    KIA_FR_TT: 20
     KIA_RL_TP: 2.20632
     KIA_RL_TT: 21
-    KIA_RR_TP: 2.2339
-    KIA_RR_TT: 20
+    KIA_RR_TP: 2.24769
+    KIA_RR_TT: 21
     KIA_TP_1: 4103.1
     KIA_TP_2: 25.6
-    KIA_TP_3: 4154.2
+    KIA_TP_3: 4179.9
     KIA_TT_1: 256
     KIA_TT_2: -24505
     KIA_TT_3: 256
   response: |-
     7DE10126106A0470100
-    7DE21A1470100A04701
-    7DE2200A2460100FFFF
+    7DE21A0460100A04701
+    7DE2200A3470100FFFF
 - expected_values:
     KIA_FL_TP: 2.24769
     KIA_FL_TT: 30
