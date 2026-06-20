@@ -62,6 +62,7 @@ supported_commands_by_ecu:
   - 7E0.0133:BARO
   - 7E0.013C:CATEMP11
   - 7E0.013D:CATEMP21
+  - 7E0.0142:VPWR
   - 7E0.0143:LOAD_ABS
   - 7E0.0144:EQ_RAT
   - 7E0.0145:TP_R
