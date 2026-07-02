@@ -1,6 +1,23 @@
 command_id: 7D6.7DE.2106
 test_cases:
 - expected_values:
+    KIA_FL_TP: 2.27527
+    KIA_FL_TT: 28
+    KIA_FR_TP: 2.24769
+    KIA_FR_TT: 25
+    KIA_RL_TP: 2.27527
+    KIA_RL_TT: 31
+    KIA_RR_TP: 2.34422
+    KIA_RR_TT: 33
+    KIA_TP_1: 4231.8
+    KIA_TP_2: 25.6
+    KIA_TP_3: 4360.3
+    KIA_TT_1: 256
+    KIA_TT_2: -23215
+    KIA_TT_3: 256
+  response: "7DE 10 12 61 06 A5 4E 01 00 \n7DE 21 A3 4B 01 00 A5 51 01 \n7DE 22 00
+    AA 53 01 00 FF FF "
+- expected_values:
     KIA_FL_TP: 2.08222
     KIA_FL_TT: 15
     KIA_FR_TP: 2.06843

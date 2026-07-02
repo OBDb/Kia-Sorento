@@ -1,6 +1,22 @@
 command_id: 7D1.7D9.2101
 test_cases:
 - expected_values:
+    KIA_BRAKE_P: 14.80969
+    KIA_FL_VSS: 30
+    KIA_FR_VSS: 30
+    KIA_RL_VSS: 30
+    KIA_RR_VSS: 30
+    KIA_STEER_ANGLE: -12.9
+    KIA_TC_SWITCH: 0
+    KIA_TIRE_FL_VSS_V1: 30
+    KIA_TIRE_FR_VSS_V1: 30
+    KIA_TIRE_RL_VSS_V1: 30
+    KIA_TIRE_RR_VSS_V1: 30
+    KIA_VSS_AVG: 30
+  response: "7D9 10 29 61 01 DF EB EF 09 \n7D9 21 5C 15 1E 0F 04 E2 FF \n7D9 22 1E
+    1E 1E 1E FF 7E FF \n7D9 23 00 C4 D4 00 00 00 00 \n7D9 24 FF 7F D7 08 1B 07 F6
+    \n7D9 25 05 04 FF FF C0 FF FF "
+- expected_values:
     KIA_BRAKE_P: 0
     KIA_FL_VSS: 0
     KIA_FR_VSS: 0
