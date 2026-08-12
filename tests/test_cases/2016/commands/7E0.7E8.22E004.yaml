@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.22E004
+test_cases:
+- expected_values:
+    KIA_22E004: 100
+  response: |-
+    7E8101962E004FFFF03
+    7E82100FDD1C877F276
+    7E822FB80F88030D4F7
+    7E8230010320010AAAA

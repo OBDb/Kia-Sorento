@@ -13,8 +13,8 @@ test_cases:
     CLR_DIST: 256
   response: '7E80441310100'
 - expected_values:
-    CLR_DIST: 4090
-  response: 7E80441310FFA
+    CLR_DIST: 4405
+  response: '7E80441311135'
 - expected_values:
     CLR_DIST: 7
   response: "SEARCHING...\n7E8 04 41 31 00 07 "
