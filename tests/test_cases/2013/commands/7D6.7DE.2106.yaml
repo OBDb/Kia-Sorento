@@ -60,22 +60,22 @@ test_cases:
 - expected_values:
     KIA_FL_TP: 0
     KIA_FL_TT: -50
-    KIA_FR_TP: 2.12359
-    KIA_FR_TT: 39
-    KIA_RL_TP: 2.15117
-    KIA_RL_TT: 36
-    KIA_RR_TP: 0
-    KIA_RR_TT: -50
+    KIA_FR_TP: 2.05464
+    KIA_FR_TT: 35
+    KIA_RL_TP: 0
+    KIA_RL_TT: -50
+    KIA_RR_TP: 1.99948
+    KIA_RR_TT: 32
     KIA_TP_1: 0
     KIA_TP_2: 0
-    KIA_TP_3: 0
+    KIA_TP_3: 3720.2
     KIA_TT_1: 256
-    KIA_TT_2: -25514
-    KIA_TT_3: 256
+    KIA_TT_2: 0
+    KIA_TT_3: 0
   response: |-
     7DE1012610600000100
-    7DE219A5900009C5600
-    7DE220000000100FFFF
+    7DE2195550000000001
+    7DE220091520000FFFF
 - expected_values:
     KIA_FL_TP: 0
     KIA_FL_TT: -50
