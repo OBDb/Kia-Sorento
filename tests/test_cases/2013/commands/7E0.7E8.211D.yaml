@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.211D
 test_cases:
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -28,10 +28,10 @@ test_cases:
     7E82F01E40070012DFF
     7E82019000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -55,10 +55,10 @@ test_cases:
     7E82F0119017F01B954
     7E82039000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -82,10 +82,10 @@ test_cases:
     7E82F01100144012EFE
     7E8201C000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -109,10 +109,10 @@ test_cases:
     7E82F011601950178D0
     7E8202D000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -136,10 +136,10 @@ test_cases:
     7E82F01FF0300008AC5
     7E82045000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -163,10 +163,10 @@ test_cases:
     7E82F004D00610028FF
     7E82012000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -190,10 +190,10 @@ test_cases:
     7E82F0116018A01A774
     7E82035000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -217,10 +217,10 @@ test_cases:
     7E82F01DE00A80167EF
     7E8202D000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -244,10 +244,10 @@ test_cases:
     7E82F011501B502A8A8
     7E82020000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -271,10 +271,10 @@ test_cases:
     7E82F0111019801A9A0
     7E82020000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -298,10 +298,10 @@ test_cases:
     7E82F010A019C018EC9
     7E82063000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -325,10 +325,10 @@ test_cases:
     7E82F01DE0088012EFF
     7E82014000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -352,10 +352,10 @@ test_cases:
     7E82F0116011A01BE7B
     7E82040000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -379,10 +379,10 @@ test_cases:
     7E82F01220198028ABE
     7E8203C000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -406,10 +406,10 @@ test_cases:
     7E82F011801B802E130
     7E82060000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -433,10 +433,10 @@ test_cases:
     7E82F012401910190B2
     7E8203E000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -460,10 +460,10 @@ test_cases:
     7E82F01190166012FFF
     7E82014000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -487,10 +487,10 @@ test_cases:
     7E82F01190199013DFD
     7E82024000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -514,10 +514,10 @@ test_cases:
     7E82F011601D2019FA8
     7E82049000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -541,10 +541,10 @@ test_cases:
     7E82F01DF0036012CFF
     7E82013000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -568,10 +568,10 @@ test_cases:
     7E82F002D0000012AFF
     7E82014000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -595,10 +595,10 @@ test_cases:
     7E82F011801B002E720
     7E82070000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -622,10 +622,10 @@ test_cases:
     7E82F012D00050126FF
     7E82012000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -649,10 +649,10 @@ test_cases:
     7E82F002D004C0127FF
     7E82012000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -676,10 +676,10 @@ test_cases:
     7E82F0119013101AA9C
     7E8200A000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -703,10 +703,10 @@ test_cases:
     7E82F011B01B802D545
     7E82051000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -730,10 +730,10 @@ test_cases:
     7E82F011001920184CF
     7E82066000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -757,10 +757,10 @@ test_cases:
     7E82F011B018002D04B
     7E82049000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -784,10 +784,10 @@ test_cases:
     7E82F011001A901E00F
     7E8205E000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -811,10 +811,10 @@ test_cases:
     7E82F000E0168015BFE
     7E82013000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -838,10 +838,10 @@ test_cases:
     7E82F0115018C0141FE
     7E8202A000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -865,10 +865,10 @@ test_cases:
     7E82F0117013602CD5C
     7E8203C000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -892,10 +892,10 @@ test_cases:
     7E82F0100019D0191C8
     7E8206A000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -919,10 +919,10 @@ test_cases:
     7E82F02ED00BF02D153
     7E82042000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -946,10 +946,10 @@ test_cases:
     7E82F011801C00278D0
     7E82055000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -973,10 +973,10 @@ test_cases:
     7E82F010E019B0195BE
     7E82084000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -1000,10 +1000,10 @@ test_cases:
     7E82F011E019B0182D0
     7E82046000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 1
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 1
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -1027,10 +1027,10 @@ test_cases:
     7E82F0120018302AAA2
     7E8204E000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 2
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 2
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -1054,10 +1054,10 @@ test_cases:
     7E82F011D01A302D647
     7E82051000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 2
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 2
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -1081,10 +1081,10 @@ test_cases:
     7E82F0121017B01D24B
     7E82053000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 2
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 2
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 40
@@ -1108,10 +1108,10 @@ test_cases:
     7E82F012D007A012AFF
     7E82014000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 1
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 1
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 20
     KIA_MIS_CAT_3: 0
@@ -1135,10 +1135,10 @@ test_cases:
     7E82F011E018D01D939
     7E82059000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 1
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 1
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 26
     KIA_MIS_CAT_3: 0
@@ -1162,10 +1162,10 @@ test_cases:
     7E82F0121012101AD9A
     7E8203C000000000000
 - expected_values:
-    KIA_MIS_1_V2: 0
-    KIA_MIS_2_V2: 2
-    KIA_MIS_3_V2: 0
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 0
+    KIA_MIS_2_7E0: 2
+    KIA_MIS_3_7E0: 0
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0
@@ -1189,10 +1189,10 @@ test_cases:
     7E82F0125017E01A2A6
     7E82046000000000000
 - expected_values:
-    KIA_MIS_1_V2: 2
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 1
-    KIA_MIS_4_V2: 0
+    KIA_MIS_1_7E0: 2
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 1
+    KIA_MIS_4_7E0: 0
     KIA_MIS_CAT_1: 41
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 21
@@ -1216,10 +1216,10 @@ test_cases:
     7E82F011E018D015EF1
     7E8204A000000000000
 - expected_values:
-    KIA_MIS_1_V2: 3
-    KIA_MIS_2_V2: 0
-    KIA_MIS_3_V2: 1
-    KIA_MIS_4_V2: 1
+    KIA_MIS_1_7E0: 3
+    KIA_MIS_2_7E0: 0
+    KIA_MIS_3_7E0: 1
+    KIA_MIS_4_7E0: 1
     KIA_MIS_CAT_1: 0
     KIA_MIS_CAT_2: 0
     KIA_MIS_CAT_3: 0

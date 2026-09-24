@@ -5,6 +5,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000026000902
@@ -18,6 +20,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000026000A02
@@ -31,6 +35,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000026000F02
@@ -44,6 +50,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000026001002
@@ -57,6 +65,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000026007401
@@ -70,6 +80,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000002600F101
@@ -83,6 +95,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000002C005F01
@@ -96,6 +110,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000002F000402
@@ -109,6 +125,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000030002602
@@ -122,6 +140,8 @@ test_cases:
     KIA_INJ_DUR_2: 1.04858
     KIA_INJ_DUR_3: 1.04858
     KIA_INJ_DUR_4: 1.04858
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E82100000031009901
@@ -135,6 +155,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000003100A301
@@ -148,6 +170,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000005D009A01
@@ -161,6 +185,8 @@ test_cases:
     KIA_INJ_DUR_2: 4.40403
     KIA_INJ_DUR_3: 4.40403
     KIA_INJ_DUR_4: 4.40403
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000006F009301
@@ -174,6 +200,8 @@ test_cases:
     KIA_INJ_DUR_2: 3.14574
     KIA_INJ_DUR_3: 3.14574
     KIA_INJ_DUR_4: 3.14574
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E8210000009B00A601
@@ -187,6 +215,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E821000000D4004A01
@@ -200,6 +230,8 @@ test_cases:
     KIA_INJ_DUR_2: 0
     KIA_INJ_DUR_3: 0
     KIA_INJ_DUR_4: 0
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4F400
     7E821000000F9009901
@@ -213,6 +245,8 @@ test_cases:
     KIA_INJ_DUR_2: 0.41943
     KIA_INJ_DUR_3: 0.41943
     KIA_INJ_DUR_4: 0.41943
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4FC00
     7E82100000026000102
@@ -226,6 +260,8 @@ test_cases:
     KIA_INJ_DUR_2: 0.41943
     KIA_INJ_DUR_3: 0.41943
     KIA_INJ_DUR_4: 0.41943
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4FC00
     7E82100000026003102
@@ -239,6 +275,8 @@ test_cases:
     KIA_INJ_DUR_2: 1.88744
     KIA_INJ_DUR_3: 1.88744
     KIA_INJ_DUR_4: 1.88744
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4FC00
     7E8210000008A008A01
@@ -252,6 +290,8 @@ test_cases:
     KIA_INJ_DUR_2: 1.67773
     KIA_INJ_DUR_3: 1.67773
     KIA_INJ_DUR_4: 1.67773
+    KIA_INJ_DUR_5: 0
+    KIA_INJ_DUR_6: 0
   response: |-
     7E8102A62E002D4FC00
     7E8210000009B009601
