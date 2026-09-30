@@ -9,6 +9,11 @@ test_cases:
     KIA_BRAKE_SW: 0
   response: |-
     7A8100B62B008FFFEFF
+    7A821F000004004AAAA
+- expected_values:
+    KIA_BRAKE_SW: 0
+  response: |-
+    7A8100B62B008FFFEFF
     7A821F000004006AAAA
 - expected_values:
     KIA_BRAKE_SW: 0
