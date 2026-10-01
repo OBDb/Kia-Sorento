@@ -59,7 +59,6 @@ test_cases:
 - expected_values:
     SORENTO_BATTERY_SOC: 86
     SORENTO_BATTERY_V: 12.12494
-    SORENTO_BATTERY_V_AFTER_IGNITION: 0
     SORENTO_EIT: 51.75
     SORENTO_EOT: 102.75
   response: |-
@@ -297,7 +296,6 @@ test_cases:
 - expected_values:
     SORENTO_BATTERY_SOC: 62
     SORENTO_BATTERY_V: 12.60176
-    SORENTO_BATTERY_V_AFTER_IGNITION: 0
     SORENTO_EIT: 12.75
     SORENTO_EOT: 92.25
   response: |-
