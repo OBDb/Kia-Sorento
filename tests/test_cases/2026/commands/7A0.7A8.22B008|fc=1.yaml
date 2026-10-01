@@ -1,27 +1,27 @@
 command_id: 7A0.7A8.22B008|fc=1
 test_cases:
 - expected_values:
-    KIA_BRAKE_SW: 0
+    SORENTO_BRAKE_SW: 0
   response: |-
     7A8100B62B008FFFEFF
     7A821F000000000AAAA
 - expected_values:
-    KIA_BRAKE_SW: 0
+    SORENTO_BRAKE_SW: 0
   response: |-
     7A8100B62B008FFFEFF
     7A821F000004004AAAA
 - expected_values:
-    KIA_BRAKE_SW: 0
+    SORENTO_BRAKE_SW: 0
   response: |-
     7A8100B62B008FFFEFF
     7A821F000004006AAAA
 - expected_values:
-    KIA_BRAKE_SW: 0
+    SORENTO_BRAKE_SW: 0
   response: |-
     7A8100B62B008FFFEFF
     7A821F000024000AAAA
 - expected_values:
-    KIA_BRAKE_SW: 0
+    SORENTO_BRAKE_SW: 0
   response: |-
     7A8100B62B008FFFEFF
     7A821F000024004AAAA
