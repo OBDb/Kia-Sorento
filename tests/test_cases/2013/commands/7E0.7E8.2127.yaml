@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2127
+test_cases:
+- expected_values:
+    SORENTO_BAT_CURRENT_BATSENS_7E0_7E0_27: 5
+  response: |-
+    7E8100B612700000000
+    7E82100000032000000
