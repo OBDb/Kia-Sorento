@@ -477,10 +477,12 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E004"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2020, 2021], "from": 2027 },
   "signals": [
-    {"id": "SORENTO_E004_BYTE0",         "path": "Engine.Unknown", "fmt": {            "len": 8, "max": 100, "unit": "scalar" }, "name": "Engine status byte"},
-    {"id": "SORENTO_FUEL_CUT_7E0",       "path": "Fuel",           "fmt": {"bix": 64,  "len": 8, "max": 255, "unit": "scalar" }, "name": "Fuel cut"},
-    {"id": "SORENTO_WIDE_OPEN_THROTTLE", "path": "Engine",         "fmt": {"bix": 72,  "len": 8, "max": 255, "unit": "scalar" }, "name": "Wide open throttle"},
-    {"id": "SORENTO_KNOCK_DETECTED_7E0", "path": "Engine",         "fmt": {"bix": 168, "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock detected"}
+    {"id": "SORENTO_E004_BYTE0",         "path": "Engine.Unknown", "fmt": {            "len": 8, "max": 100,               "unit": "scalar"  }, "name": "Engine status byte"},
+    {"id": "SORENTO_FUEL_CUT_7E0",       "path": "Fuel",           "fmt": {"bix": 64,  "len": 8, "max": 255,               "unit": "scalar"  }, "name": "Fuel cut"},
+    {"id": "SORENTO_WIDE_OPEN_THROTTLE", "path": "Engine",         "fmt": {"bix": 72,  "len": 8, "max": 255,               "unit": "scalar"  }, "name": "Wide open throttle"},
+    {"id": "SORENTO_KNOCK_DETECTED_7E0", "path": "Engine",         "fmt": {"bix": 168, "len": 8, "max": 255,               "unit": "scalar"  }, "name": "Knock detected"},
+    {"id": "SORENTO_AUX_SOC",            "path": "Battery",        "fmt": {"bix": 320, "len": 8, "max": 100, "nullmin": 0, "unit": "percent" }, "name": "12 V battery state of charge"},
+    {"id": "SORENTO_AUX_SOH",            "path": "Battery",        "fmt": {"bix": 328, "len": 8, "max": 100, "nullmin": 0, "unit": "percent" }, "name": "12 V battery state of health"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E005"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2025], "from": 2027 },
   "signals": [
@@ -524,6 +526,10 @@
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E010"}, "freq": 1, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
   "signals": [
     {"id": "SORENTO_MAF_RATE", "path": "Engine", "fmt": {"bix": 208, "len": 8, "blsb": true, "max": 10.8, "mul": 0.04239, "unit": "unknown" }, "name": "Mass air flow rate"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E011"}, "freq": 5, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+  "signals": [
+    {"id": "SORENTO_CALC_OIL_T", "path": "Engine", "fmt": {"bix": 304, "len": 8, "max": 215, "min": -40, "add": -40, "nullmin": -40, "unit": "celsius" }, "name": "Calculated oil temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E014"}, "freq": 1, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
   "signals": [
