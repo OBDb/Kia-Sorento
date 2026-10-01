@@ -1,4 +1,10 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E2", "type": "hybridControl" },
+    { "hdr": "7E3", "type": "motor" },
+    { "hdr": "7E4", "type": "battery" },
+    { "hdr": "7E7", "type": "abs" }
+  ],
+  "commands": [
 { "hdr": "730", "rax": "738", "cmd": {"22": "F010"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_WHEEL_FR_VSS_HD",           "path": "Movement",    "fmt": {"bix": 32,  "len": 16, "blsb": true, "max": 2047,                                 "div": 32,                                                   "unit": "kilometersPerHour"      },                  "name": "Front right wheel speed, high resolution"},
