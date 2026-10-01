@@ -436,7 +436,7 @@
     {"id": "SORENTO_CYL_3_INJ_TIME_1ST", "path": "Engine", "fmt": {"bix": 296, "len": 16, "blsb": true, "max": 262.14,                           "mul": 4,     "div": 1000,                "unit": "milliseconds" }, "name": "Cylinder 3 injection time, 1st pulse"},
     {"id": "SORENTO_CYL_4_INJ_TIME_1ST", "path": "Engine", "fmt": {"bix": 312, "len": 16, "blsb": true, "max": 262.14,                           "mul": 4,     "div": 1000,                "unit": "milliseconds" }, "name": "Cylinder 4 injection time, 1st pulse"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "27"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "27"}, "freq": 5, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "SORENTO_BAT_CURRENT_BATSENS_7E0_7E0_27", "path": "Battery", "fmt": {"bix": 48,  "len": 16, "max": 3276,  "min": -3276, "div": 10,               "sign": true, "unit": "amps"    }, "name": "Battery current, battery sensor"},
     {"id": "SORENTO_BAT_V_BATSENS_7E0_7E0_27",       "path": "Battery", "fmt": {"bix": 64,  "len": 16, "max": 71.53,               "div": 1000, "add": 6,                 "unit": "volts"   }, "name": "Battery voltage, battery sensor"},
