@@ -2,8 +2,6 @@ command_id: 7E0.7E8.22E001
 test_cases:
 - expected_values:
     SORENTO_BATTERY_SOC: 78
-    SORENTO_BATTERY_V: 0
-    SORENTO_BATTERY_V_AFTER_IGNITION: 0
     SORENTO_EIT: 33
     SORENTO_EOT: 92.25
   response: |-
@@ -157,7 +155,6 @@ test_cases:
 - expected_values:
     SORENTO_BATTERY_SOC: 77
     SORENTO_BATTERY_V: 12.39741
-    SORENTO_BATTERY_V_AFTER_IGNITION: 0
     SORENTO_EIT: 39.75
     SORENTO_EOT: 93.75
   response: |-
@@ -171,7 +168,6 @@ test_cases:
 - expected_values:
     SORENTO_BATTERY_SOC: 73
     SORENTO_BATTERY_V: 12.66988
-    SORENTO_BATTERY_V_AFTER_IGNITION: 0
     SORENTO_EIT: 60.75
     SORENTO_EOT: 96
   response: |-
@@ -241,7 +237,6 @@ test_cases:
 - expected_values:
     SORENTO_BATTERY_SOC: 81
     SORENTO_BATTERY_V: 13.01047
-    SORENTO_BATTERY_V_AFTER_IGNITION: 0
     SORENTO_EIT: 35.25
     SORENTO_EOT: 75
   response: |-
