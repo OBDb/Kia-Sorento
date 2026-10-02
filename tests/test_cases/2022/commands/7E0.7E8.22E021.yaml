@@ -37,7 +37,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 95.92687
     SORENTO_WG_DUTY: 30.41689
-    SORENTO_WG_POS: 396.66166
+    SORENTO_WG_POS: -3.33863
     SORENTO_WG_SP: 88.69635
     SORENTO_WG_V: 3.81836
   response: |-
@@ -54,7 +54,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 95.9932
     SORENTO_WG_DUTY: 31.0364
-    SORENTO_WG_POS: 397.20487
+    SORENTO_WG_POS: -2.79541
     SORENTO_WG_SP: 87.79914
     SORENTO_WG_V: 3.78907
   response: |-
@@ -71,7 +71,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 96.00978
     SORENTO_WG_DUTY: 27.0569
-    SORENTO_WG_POS: 397.79081
+    SORENTO_WG_POS: -2.20947
     SORENTO_WG_SP: 94.31159
     SORENTO_WG_V: 3.79883
   response: |-
@@ -88,7 +88,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 96.00978
     SORENTO_WG_DUTY: 31.44534
-    SORENTO_WG_POS: 399
+    SORENTO_WG_POS: -0.5249
     SORENTO_WG_SP: 85.32721
     SORENTO_WG_V: 3.79395
   response: |-
@@ -139,7 +139,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 105.23766
     SORENTO_WG_DUTY: 76.26653
-    SORENTO_WG_POS: 332.83715
+    SORENTO_WG_POS: -67.16313
     SORENTO_WG_SP: 0
     SORENTO_WG_V: 3.81348
   response: |-
@@ -241,7 +241,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 108.21413
     SORENTO_WG_DUTY: 76.51067
-    SORENTO_WG_POS: 331.27465
+    SORENTO_WG_POS: -68.72564
     SORENTO_WG_SP: 0
     SORENTO_WG_V: 3.82324
   response: |-
@@ -275,7 +275,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 100.74394
     SORENTO_WG_DUTY: 76.00103
-    SORENTO_WG_POS: 332.83715
+    SORENTO_WG_POS: -67.16313
     SORENTO_WG_SP: 0
     SORENTO_WG_V: 3.79395
   response: |-
@@ -292,7 +292,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 116.10716
     SORENTO_WG_DUTY: 74.27373
-    SORENTO_WG_POS: 397.7725
+    SORENTO_WG_POS: -2.22778
     SORENTO_WG_SP: 2.09961
     SORENTO_WG_V: 3.81836
   response: |-
@@ -309,7 +309,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 135.08526
     SORENTO_WG_DUTY: 71.72857
-    SORENTO_WG_POS: 375.62283
+    SORENTO_WG_POS: -24.37746
     SORENTO_WG_SP: 9.73511
     SORENTO_WG_V: 3.82813
   response: |-
@@ -343,8 +343,8 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 106.02531
     SORENTO_WG_DUTY: 75.35406
-    SORENTO_WG_POS: 326.41015
-    SORENTO_WG_SP: 398.43779
+    SORENTO_WG_POS: -73.59014
+    SORENTO_WG_SP: -1.5625
     SORENTO_WG_V: 3.71094
   response: |-
     7E8104562E021FE9FC6
@@ -360,8 +360,8 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 109.8143
     SORENTO_WG_DUTY: 77.04778
-    SORENTO_WG_POS: 334.35083
-    SORENTO_WG_SP: 398.43779
+    SORENTO_WG_POS: -65.64946
+    SORENTO_WG_SP: -1.5625
     SORENTO_WG_V: 3.83301
   response: |-
     7E8104562E021FE9FC6
@@ -394,7 +394,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 118.97585
     SORENTO_WG_DUTY: 76.26653
-    SORENTO_WG_POS: 332.83715
+    SORENTO_WG_POS: -67.16313
     SORENTO_WG_SP: 0
     SORENTO_WG_V: 3.79395
   response: |-
@@ -411,7 +411,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 136.05531
     SORENTO_WG_DUTY: 73.74578
-    SORENTO_WG_POS: 386.39554
+    SORENTO_WG_POS: -13.60475
     SORENTO_WG_SP: 4.77295
     SORENTO_WG_V: 3.85254
   response: |-
@@ -479,7 +479,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 94.94853
     SORENTO_WG_DUTY: 28.89712
-    SORENTO_WG_POS: 398.41337
+    SORENTO_WG_POS: -1.58692
     SORENTO_WG_SP: 91.81525
     SORENTO_WG_V: 3.79883
   response: |-
@@ -496,7 +496,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 116.4388
     SORENTO_WG_DUTY: 75.39373
-    SORENTO_WG_POS: 397.26591
+    SORENTO_WG_POS: -2.73438
     SORENTO_WG_SP: 2.00806
     SORENTO_WG_V: 3.80371
   response: |-
@@ -513,8 +513,8 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 95.24701
     SORENTO_WG_DUTY: 76.26653
-    SORENTO_WG_POS: 334.20434
-    SORENTO_WG_SP: 398.44389
+    SORENTO_WG_POS: -65.79595
+    SORENTO_WG_SP: -1.5564
     SORENTO_WG_V: 3.75
   response: |-
     7E8104562E021FE9FC6
@@ -564,7 +564,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 96.00149
     SORENTO_WG_DUTY: 75.21978
-    SORENTO_WG_POS: 332.82495
+    SORENTO_WG_POS: -67.17534
     SORENTO_WG_SP: 0.02441
     SORENTO_WG_V: 3.76953
   response: |-
@@ -581,7 +581,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 96.01807
     SORENTO_WG_DUTY: 27.29189
-    SORENTO_WG_POS: 397.73588
+    SORENTO_WG_POS: -2.26441
     SORENTO_WG_SP: 94.43976
     SORENTO_WG_V: 3.80371
   response: |-
@@ -615,7 +615,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 111.73781
     SORENTO_WG_DUTY: 76.51067
-    SORENTO_WG_POS: 331.7141
+    SORENTO_WG_POS: -68.28618
     SORENTO_WG_SP: 0
     SORENTO_WG_V: 3.8086
   response: |-
@@ -632,7 +632,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 136.85954
     SORENTO_WG_DUTY: 75.28082
-    SORENTO_WG_POS: 395.31278
+    SORENTO_WG_POS: -4.6875
     SORENTO_WG_SP: 3.16162
     SORENTO_WG_V: 3.83789
   response: |-
@@ -700,7 +700,7 @@ test_cases:
 - expected_values:
     SORENTO_TB_PRES: 136.21284
     SORENTO_WG_DUTY: 76.00103
-    SORENTO_WG_POS: 333.47802
+    SORENTO_WG_POS: -66.52226
     SORENTO_WG_SP: 0
     SORENTO_WG_V: 3.81348
   response: |-
