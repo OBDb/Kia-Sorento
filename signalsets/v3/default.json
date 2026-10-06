@@ -1,5 +1,7 @@
 { "ecu": [
     { "hdr": "7A0", "type": "bodyControl" },
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" },
     { "hdr": "7E2", "type": "hybridControl" },
     { "hdr": "7E3", "type": "motor" },
     { "hdr": "7E4", "type": "battery" },
