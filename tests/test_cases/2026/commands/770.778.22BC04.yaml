@@ -20,6 +20,16 @@ test_cases:
     SORENTO_LOCK_FR: 0
   response: |-
     778100B62BC04BFFEBF
+    778217800140200AAAA
+- expected_values:
+    SORENTO_BELT_RL: 0
+    SORENTO_BELT_RM: 0
+    SORENTO_BELT_RR: 1
+    SORENTO_GEAR_R: 0
+    SORENTO_LOCK_FL: 0
+    SORENTO_LOCK_FR: 0
+  response: |-
+    778100B62BC04BFFEBF
     778217800500200AAAA
 - expected_values:
     SORENTO_BELT_RL: 0
