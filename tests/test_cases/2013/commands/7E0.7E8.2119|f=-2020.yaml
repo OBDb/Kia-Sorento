@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.2119
+command_id: 7E0.7E8.2119|f=-2020
 test_cases:
 - expected_values:
     SORENTO_ADPT_LO_STOP: -0.54835

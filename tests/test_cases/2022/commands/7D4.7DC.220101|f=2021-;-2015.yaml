@@ -1,4 +1,4 @@
-command_id: 7D4.7DC.220101
+command_id: 7D4.7DC.220101|f=2021-;-2015
 test_cases:
 - expected_values:
     SORENTO_MDPS_MOTOR_CURRENT: 24
