@@ -711,7 +711,7 @@
   ]},
 { "hdr": "7E2", "rax": "7EA", "cmd": {"22": "E004"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
-    {"id": "SORENTO_VPWR_V3", "path": "Battery", "fmt": {"bix": 152, "len": 8, "max": 100, "unit": "percent" }, "name": "12v battery charge"}
+    {"id": "SORENTO_VPWR_V3", "path": "Battery", "fmt": {"bix": 152, "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "12V battery voltage"}
   ]},
 { "hdr": "7E2", "rax": "7EA", "dbg": true, "cmd": {"22": "E005"}, "freq": 1, "filter": { "from": 2021 },
   "signals": [
