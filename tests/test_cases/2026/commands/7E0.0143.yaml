@@ -7,5 +7,5 @@ test_cases:
     LOAD_ABS: 99.60784
   response: 7E804414300FE
 - expected_values:
-    LOAD_ABS: 207.84314
-  response: '7E80441430212'
+    LOAD_ABS: 204.70588
+  response: 7E8044143020A
