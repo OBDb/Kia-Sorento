@@ -1,7 +1,6 @@
 command_id: 7E1.7E9.2201A4|f=2021-;-2009
 test_cases:
 - expected_values:
-    SORENTO_GEAR_CUR: 9
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -14,7 +13,6 @@ test_cases:
     7E9270000000000075C
     7E9281F81AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 9
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -27,7 +25,6 @@ test_cases:
     7E9270000000000075D
     7E9281F80AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 12
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -40,7 +37,7 @@ test_cases:
     7E9270000000000075D
     7E9281F80AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF

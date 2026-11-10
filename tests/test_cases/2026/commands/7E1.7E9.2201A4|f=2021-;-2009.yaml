@@ -1,7 +1,6 @@
 command_id: 7E1.7E9.2201A4|f=2021-;-2009
 test_cases:
 - expected_values:
-    SORENTO_GEAR_CUR: 0
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -14,7 +13,7 @@ test_cases:
     7E927000000000006D8
     7E9282002AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 6
+    SORENTO_GEAR_CUR: '6'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -27,7 +26,7 @@ test_cases:
     7E92700000000001F94
     7E928074BAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 5
+    SORENTO_GEAR_CUR: '5'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -40,7 +39,6 @@ test_cases:
     7E92700000000001F93
     7E928074BAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 14
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -53,7 +51,7 @@ test_cases:
     7E927000000000006DA
     7E9282003AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -66,7 +64,7 @@ test_cases:
     7E92700000000001F9B
     7E928073EAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -79,7 +77,6 @@ test_cases:
     7E927000000000006D8
     7E9282004AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 14
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -92,7 +89,6 @@ test_cases:
     7E92700000000001F98
     7E9280747AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 14
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -105,7 +101,7 @@ test_cases:
     7E92700000000001F8F
     7E9280751AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 6
+    SORENTO_GEAR_CUR: '6'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -118,7 +114,7 @@ test_cases:
     7E927000000000006D3
     7E928200BAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -131,7 +127,7 @@ test_cases:
     7E927000000000006DB
     7E9281FFFAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 6
+    SORENTO_GEAR_CUR: '6'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -144,7 +140,7 @@ test_cases:
     7E927000000000006DA
     7E9282001AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -157,7 +153,6 @@ test_cases:
     7E92700000000001F99
     7E928073DAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 14
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -170,7 +165,6 @@ test_cases:
     7E927000000000006E0
     7E9281FFCAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 9
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -183,7 +177,6 @@ test_cases:
     7E927000000000006D6
     7E9282006AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 12
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -196,7 +189,7 @@ test_cases:
     7E927000000000006DD
     7E9281FFDAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 2
+    SORENTO_GEAR_CUR: '2'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -209,7 +202,7 @@ test_cases:
     7E927000000000006DE
     7E9282000AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 4
+    SORENTO_GEAR_CUR: '4'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -222,7 +215,6 @@ test_cases:
     7E927000000000006D5
     7E9282009AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 12
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -235,7 +227,7 @@ test_cases:
     7E927000000000006DA
     7E9282002AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 4
+    SORENTO_GEAR_CUR: '4'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -248,7 +240,7 @@ test_cases:
     7E92700000000001442
     7E9281298AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 8
+    SORENTO_GEAR_CUR: '8'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -261,7 +253,6 @@ test_cases:
     7E92700000000001440
     7E928129BAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 12
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -274,7 +265,7 @@ test_cases:
     7E9270000000000143E
     7E928129CAAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 1
+    SORENTO_GEAR_CUR: '1'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -287,7 +278,6 @@ test_cases:
     7E927000000000006D5
     7E9282006AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 13
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -300,7 +290,7 @@ test_cases:
     7E927000000000006D7
     7E9282005AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 3
+    SORENTO_GEAR_CUR: '3'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -313,7 +303,6 @@ test_cases:
     7E927000000000006DA
     7E9282003AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 15
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -326,7 +315,7 @@ test_cases:
     7E927000000000006EB
     7E9281FF2AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 5
+    SORENTO_GEAR_CUR: '5'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -339,7 +328,7 @@ test_cases:
     7E927000000000006DB
     7E9282003AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 5
+    SORENTO_GEAR_CUR: '5'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -352,7 +341,7 @@ test_cases:
     7E927000000000006D6
     7E9282007AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -365,7 +354,6 @@ test_cases:
     7E927000000000006DB
     7E9282002AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 14
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -378,7 +366,7 @@ test_cases:
     7E927000000000006D7
     7E9282006AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 1
+    SORENTO_GEAR_CUR: '1'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -391,7 +379,7 @@ test_cases:
     7E927000000000006EB
     7E9281FF2AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 3
+    SORENTO_GEAR_CUR: '3'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -404,7 +392,7 @@ test_cases:
     7E927000000000006D8
     7E9282006AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 7
+    SORENTO_GEAR_CUR: '7'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -417,7 +405,7 @@ test_cases:
     7E927000000000006DB
     7E9282000AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 1
+    SORENTO_GEAR_CUR: '1'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -430,7 +418,6 @@ test_cases:
     7E927000000000006DA
     7E9282000AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 15
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -443,7 +430,7 @@ test_cases:
     7E927000000000006DB
     7E9282000AAAAAAAAAA
 - expected_values:
-    SORENTO_GEAR_CUR: 2
+    SORENTO_GEAR_CUR: '2'
     SORENTO_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
