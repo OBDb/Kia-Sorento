@@ -21,7 +21,7 @@
     {"id": "SORENTO_LONGITUDINAL_ACCELERATION", "path": "Orientation", "fmt": {"bix": 128, "len": 16, "blsb": true, "max": 4.1769, "min": -4.1769, "mul": 8.354, "div": 65535, "add": -4.177,                                 "unit": "metersPerSecondSquared" },                  "name": "Longitudinal acceleration"},
     {"id": "SORENTO_YAW_RATE",                  "path": "Orientation", "fmt": {"bix": 144, "len": 8,  "max": 1.275,                                "div": 200,                                              "unit": "degrees" },                               "name": "Yaw rate"}
   ]},
-{ "hdr": "740", "rax": "748", "cmd": {"22": "01A1"}, "freq": 0.25, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "740", "rax": "748", "cmd": {"22": "01A1"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_AWD_CALC_CMD_TQ",    "path": "Engine", "fmt": {"bix": 40,  "len": 16, "max": 4095.875, "min": -4096,                  "div": 8,     "sign": true, "unit": "newtonMeters" }, "name": "4WD calculated, commanded torque"},
     {"id": "SORENTO_AWD_PMP_PWM_DUTY",   "path": "Engine", "fmt": {"bix": 56,  "len": 16, "max": 100,      "min": -3276.8,                "div": 10,    "sign": true, "unit": "percent"      }, "name": "4WD pump PWM duty"},
@@ -30,7 +30,7 @@
     {"id": "SORENTO_AWD_CLU_ACT_TQ",     "path": "Engine", "fmt": {"bix": 128, "len": 16, "max": 4095.875, "min": -4096,                  "div": 8,     "sign": true, "unit": "newtonMeters" }, "name": "4WD clutch, actual torque"},
     {"id": "SORENTO_AWD_CLU_ACT_P",      "path": "Engine", "fmt": {"bix": 144, "len": 16, "max": 63.99,    "min": -63.99,  "mul": 19.53,  "div": 10000, "sign": true, "unit": "bars"         }, "name": "4WD clutch, actual pressure"}
   ]},
-{ "hdr": "740", "rax": "748", "cmd": {"22": "01A3"}, "freq": 0.25, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "740", "rax": "748", "cmd": {"22": "01A3"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_AWD_CALC_CLU_POWER", "path": "Engine",   "fmt": {"bix": 56,  "len": 16, "max": 255,                   "mul": 39.062, "div": 10000,                         "unit": "kilowattHours" },             "name": "4WD calculated clutch power"},
     {"id": "SORENTO_AWD_CALC_ENG_POWER", "path": "Engine",   "fmt": {"bix": 72,  "len": 16, "max": 64,                    "mul": 9.766,  "div": 10000,                         "unit": "kilowattHours" },             "name": "4WD calculated engine power"},
