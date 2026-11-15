@@ -81,15 +81,15 @@
     {"id": "SORENTO_HL_HIGH", "path": "Lights", "fmt": {"bix": 55, "len": 1, "max": 1, "unit": "offon" }, "name": "Headlight high beam"},
     {"id": "SORENTO_HL_LOW",  "path": "Lights", "fmt": {"bix": 63, "len": 1, "max": 1, "unit": "offon" }, "name": "Headlight low beam"}
   ]},
-{ "hdr": "770", "rax": "778", "fcm1": true, "cmd": {"22": "BC10"}, "freq": 5, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "770", "rax": "778", "fcm1": true, "cmd": {"22": "BC10"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_LIGHTS_CODE", "path": "Lights", "fmt": {"bix": 32, "len": 4, "max": 15, "unit": "scalar" }, "name": "Exterior lights state code"}
   ]},
-{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "B008"}, "freq": 1, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "B008"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_BRAKE_SW", "path": "Control", "fmt": {"bix": 51, "len": 1, "max": 1, "unit": "offon" }, "name": "Brake switch"}
   ]},
-{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C002"}, "freq": 60, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C002"}, "freq": 60, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_TID_1", "path": "Tires", "fmt": {"bix": 32,  "len": 32, "max": 4294967295, "unit": "hex" }, "name": "Tire sensor 1 ID"},
     {"id": "SORENTO_TID_2", "path": "Tires", "fmt": {"bix": 64,  "len": 32, "max": 4294967295, "unit": "hex" }, "name": "Tire sensor 2 ID"},
@@ -139,25 +139,25 @@
         }}
     }
   ]},
-{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00C"}, "freq": 30, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00C"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_SENS_1_ODO_EVT_1", "path": "Trips", "fmt": {"bix": 272, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 1 odometer event 1"},
     {"id": "SORENTO_SENS_1_ODO_EVT_2", "path": "Trips", "fmt": {"bix": 296, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 1 odometer event 2"},
     {"id": "SORENTO_SENS_1_ODO_EVT_3", "path": "Trips", "fmt": {"bix": 320, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 1 odometer event 3"}
   ]},
-{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00D"}, "freq": 30, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00D"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_SENS_2_ODO_EVT_1", "path": "Trips", "fmt": {"bix": 272, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 2 odometer event 1"},
     {"id": "SORENTO_SENS_2_ODO_EVT_2", "path": "Trips", "fmt": {"bix": 296, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 2 odometer event 2"},
     {"id": "SORENTO_SENS_2_ODO_EVT_3", "path": "Trips", "fmt": {"bix": 320, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 2 odometer event 3"}
   ]},
-{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00E"}, "freq": 30, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00E"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_SENS_3_ODO_EVT_1", "path": "Trips", "fmt": {"bix": 272, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 3 odometer event 1"},
     {"id": "SORENTO_SENS_3_ODO_EVT_2", "path": "Trips", "fmt": {"bix": 296, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 3 odometer event 2"},
     {"id": "SORENTO_SENS_3_ODO_EVT_3", "path": "Trips", "fmt": {"bix": 320, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 3 odometer event 3"}
   ]},
-{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00F"}, "freq": 30, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00F"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_SENS_4_ODO_EVT_1", "path": "Trips", "fmt": {"bix": 272, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 4 odometer event 1"},
     {"id": "SORENTO_SENS_4_ODO_EVT_2", "path": "Trips", "fmt": {"bix": 296, "len": 24, "max": 1677721.5, "div": 10, "nullmax": 1677721.5, "unit": "kilometers" }, "name": "Sensor 4 odometer event 2"},
@@ -475,7 +475,7 @@
     {"id": "SORENTO_INJ_DUR_3", "path": "Engine", "fmt": {"bix": 208, "len": 16, "blsb": true, "max": 53, "div": 1220.7, "unit": "milliseconds" }, "name": "Injection duration cylinder 3"},
     {"id": "SORENTO_INJ_DUR_4", "path": "Engine", "fmt": {"bix": 224, "len": 16, "blsb": true, "max": 53, "div": 1220.7, "unit": "milliseconds" }, "name": "Injection duration cylinder 4"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E003"}, "freq": 1, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E003"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_BOOST_P_UP",     "path": "Engine", "fmt": {"bix": 280, "len": 16, "blsb": true, "max": 5111, "mul": 39, "div": 500, "unit": "unknown" }, "name": "Boost pressure upstream"},
     {"id": "SORENTO_BOOST_P_UP_DES", "path": "Engine", "fmt": {"bix": 312, "len": 16, "blsb": true, "max": 5111, "mul": 39, "div": 500, "unit": "unknown" }, "name": "Boost pressure upstream, desired"}
@@ -489,7 +489,7 @@
     {"id": "SORENTO_AUX_SOC",            "path": "Battery",        "fmt": {"bix": 320, "len": 8, "max": 100, "nullmin": 0, "unit": "percent" }, "name": "12 V battery state of charge"},
     {"id": "SORENTO_AUX_SOH",            "path": "Battery",        "fmt": {"bix": 328, "len": 8, "max": 100, "nullmin": 0, "unit": "percent" }, "name": "12 V battery state of health"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E005"}, "freq": 1, "filter": { "from": 2014 }, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2025], "from": 2027 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E005"}, "freq": 1, "filter": { "from": 2014 }, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2020, 2021, 2022, 2023], "from": 2027 },
   "signals": [
     {"id": "SORENTO_GDI_IT_A1", "path": "Engine", "fmt": {"bix": 224, "len": 16, "blsb": true, "max": 6553.5, "div": 10, "unit": "milliseconds" }, "name": "Gasoline direct injection time bank a, 1"},
     {"id": "SORENTO_GDI_IT_A2", "path": "Engine", "fmt": {"bix": 240, "len": 16, "blsb": true, "max": 6553.5, "div": 10, "unit": "milliseconds" }, "name": "Gasoline direct injection time bank a, 2"},
@@ -511,7 +511,7 @@
     {"id": "SORENTO_KNOCK_LEARN_3",  "path": "Engine", "fmt": {"bix": 176, "len": 8, "max": 25, "min": -25, "div": 5, "sign": true, "unit": "degrees" }, "name": "Knock learn, cylinder 3"},
     {"id": "SORENTO_KNOCK_LEARN_4",  "path": "Engine", "fmt": {"bix": 184, "len": 8, "max": 25, "min": -25, "div": 5, "sign": true, "unit": "degrees" }, "name": "Knock learn, cylinder 4"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "E00D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E00D"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "SORENTO_MISFIRES_C1_CUR",                                "path": "Engine", "fmt": {"bix": 48,  "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Misfires, current, cylinder 1"},
     {"id": "SORENTO_MISFIRES_C2_CUR",                                "path": "Engine", "fmt": {"bix": 64,  "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Misfires, current, cylinder 2"},
@@ -528,7 +528,7 @@
     {"id": "SORENTO_EMISSION_RELEVANT_MISFIRES_TOTAL_ALL_CYLINDERS", "path": "Engine", "fmt": {"bix": 432, "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Emission relevant misfires total all cylinders"},
     {"id": "SORENTO_CATALYST_DAMAGING_MISFIRES_TOTAL_ALL_CYLINDERS", "path": "Engine", "fmt": {"bix": 448, "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Catalyst damaging misfires total all cylinders"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E010"}, "freq": 1, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E010"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_MAF_RATE", "path": "Engine", "fmt": {"bix": 208, "len": 8, "blsb": true, "max": 10.8, "mul": 0.04239, "unit": "unknown" }, "name": "Mass air flow rate"}
   ]},
@@ -592,7 +592,7 @@
     {"id": "SORENTO_INJ_IMPULSE_3_CYL_4",  "path": "Engine", "fmt": {"bix": 376, "len": 16, "blsb": true,   "max": 2621.4,                                         "div": 25,                                    "unit": "milliseconds" },                                "name": "Injection impulse 3, cylinder 4"},
     {"id": "SORENTO_CYCLE_FUEL_CONS",      "path": "Fuel",   "fmt": {"bix": 416, "len": 8,  "max": 21.6189,                     "mul": 8.478,        "div": 100,                               "unit": "unknown" },                     "name": "Cycle fuel consumption"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E0F2"}, "freq": 1, "dbgfilter": { "to": 2023, "years": [2025], "from": 2027 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E0F2"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "SORENTO_DPF_SUCCESSFUL_REGEN", "path": "Engine", "fmt": {"bix": 432, "len": 16, "max": 65535,                              "unit": "scalar"  }, "name": "Diesel particulate filter successful regeneration count"},
     {"id": "SORENTO_BOOST_P",              "path": "Engine", "fmt": {"bix": 496, "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Boost pressure"}
@@ -755,7 +755,7 @@
     {"id": "SORENTO_INVERTER_T",              "path": "Engine", "fmt": {"bix": 216, "len": 16, "blsb": true, "max": 327.67, "min": -327.68,            "div": 100,   "sign": true, "unit": "celsius"      }, "name": "Inverter temperature"},
     {"id": "SORENTO_HEAT_SINK_T",             "path": "Engine", "fmt": {"bix": 448, "len": 16, "blsb": true, "max": 327.67, "min": -327.68,            "div": 100,   "sign": true, "unit": "celsius"      }, "name": "Heat sink temperature"}
   ]},
-{ "hdr": "7E3", "rax": "7EB", "dbg": true, "cmd": {"22": "E002"}, "freq": 5, "filter": { "from": 2021 },
+{ "hdr": "7E3", "rax": "7EB", "cmd": {"22": "E002"}, "freq": 5, "filter": { "from": 2021 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "SORENTO_ACT_DRIVE_MOTOR_SPD", "path": "Movement", "fmt": {"bix": 32,  "len": 16, "blsb": true, "max": 32767, "min": -32768,             "sign": true, "unit": "rpm"          }, "name": "Actual drive motor speed"},
     {"id": "SORENTO_DRIVE_MOTOR_TQ",      "path": "Engine",   "fmt": {"bix": 48,  "len": 16, "blsb": true, "max": 3276,  "min": -3276,  "div": 10,  "sign": true, "unit": "newtonMeters" }, "name": "Drive motor torque reference"},
@@ -924,7 +924,7 @@
     {"id": "SORENTO_HVBAT_CMU097_VOLT", "path": "Battery.Modules.097", "fmt": {"bix": 272, "len": 8,  "max": 4.2, "min": 2.8,            "div": 50,                                 "unit": "volts"         }, "name": "HV battery module 097 voltage"},
     {"id": "SORENTO_HVBAT_CMU098_VOLT", "path": "Battery.Modules.098", "fmt": {"bix": 280, "len": 8,  "max": 4.2, "min": 2.8,            "div": 50,                                 "unit": "volts"         }, "name": "HV battery module 098 voltage"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "fcm1": true, "dbg": true, "cmd": {"22": "0106"}, "freq": 5, "filter": { "from": 2021 },
+{ "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "0106"}, "freq": 5, "filter": { "from": 2021 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "SORENTO_BAT_T_WCS_INPUT", "path": "Battery",  "fmt": {"bix": 32,  "len": 8, "max": 127,  "min": -128,            "sign": true, "unit": "celsius" }, "name": "Battery temperature at cooling input"},
     {"id": "SORENTO_BAT_FAN_DUTY",    "path": "Battery",  "fmt": {"bix": 64,  "len": 8, "max": 255,                                        "unit": "percent" }, "name": "Battery fan duty feedback"},
