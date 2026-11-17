@@ -220,7 +220,7 @@
   "signals": [
     {"id": "SORENTO_STEER_ANGLE_V2", "path": "Control", "fmt": {"bix": 24, "len": 16, "max": 3276.7, "min": -3276.8, "mul": 10, "div": 100, "sign": true, "unit": "degrees" }, "name": "Steering angle"}
   ]},
-{ "hdr": "7D4", "rax": "7DC", "cmd": {"22": "0101"}, "freq": 5, "filter": { "to": 2015, "from": 2021 }, "dbgfilter": { "to": 2021, "from": 2027 },
+{ "hdr": "7D4", "rax": "7DC", "cmd": {"22": "0101"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2027 },
   "signals": [
     {"id": "SORENTO_MDPS_MOTOR_CURRENT", "path": "Engine", "fmt": {"bix": 88, "len": 8, "max": 127, "min": -128, "sign": true, "unit": "amps" }, "name": "Motor-driven power steering current"}
   ]},
@@ -726,7 +726,7 @@
     {"id": "SORENTO_DUAL_CLU_TRANS_CLU_2_P_B", "path": "Engine",       "fmt": {"bix": 208, "len": 16, "max": 127,             "mul": 19.53, "div": 10000,             "unit": "bars"    }, "name": "Dual-clutch transmission clutch 2, pressure sensor b"},
     {"id": "SORENTO_DUAL_CLU_TRANS_LINE_P_C",  "path": "Engine",       "fmt": {"bix": 224, "len": 16, "max": 127,             "mul": 19.53, "div": 10000,             "unit": "bars"    }, "name": "Dual-clutch transmission line pressure, sensor c"}
   ]},
-{ "hdr": "7E2", "rax": "7EA", "cmd": {"21": "01"}, "freq": 0.25, "filter": { "to": 2020 }, "dbgfilter": { "to": 2013, "from": 2015 },
+{ "hdr": "7E2", "rax": "7EA", "cmd": {"21": "01"}, "freq": 0.25, "dbgfilter": { "to": 2013, "from": 2015 },
   "signals": [
     {"id": "SORENTO_VSS_V2_7E2", "path": "Movement", "fmt": {"bix": 104, "len": 16, "blsb": true, "max": 180, "min": -180, "div": 100, "sign": true, "unit": "milesPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed"}
   ]},
