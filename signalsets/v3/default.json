@@ -288,13 +288,13 @@
     {"id": "SORENTO_BAT_T_BATSENS_7E0_7E0_06",       "path": "Battery", "fmt": {"bix": 768, "len": 16, "blsb": true, "max": 255.9758,  "min": -255.9836, "mul": 1953, "div": 250000, "sign": true,                   "unit": "celsius" },                                                      "name": "Battery temperature, battery sensor"},
     {"id": "SORENTO_BAT_ST_CHG_BATSENS_7E0_7E0_06",  "path": "Battery", "fmt": {"bix": 784, "len": 8,  "max": 100,                     "mul": 20,        "div": 51,                                "unit": "percent" },                "name": "Battery state of charge, battery sensor"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "07"}, "freq": 1, "filter": { "to": 2020 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2016], "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "07"}, "freq": 1, "filter": { "to": 2020 }, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2015, 2016], "from": 2018 },
   "signals": [
     {"id": "SORENTO_MAIN_INJECTION_QTY",  "path": "Engine", "fmt": {"bix": 96,  "len": 8,  "max": 100,   "mul": 0.392156863, "unit": "liters" }, "name": "Main injection volume"},
     {"id": "SORENTO_PILOT_INJECTION_QTY", "path": "Engine", "fmt": {"bix": 104, "len": 16, "max": 65535,                     "unit": "liters" }, "name": "Pilot injection volume"},
     {"id": "SORENTO_POST_INJECTION_QTY",  "path": "Engine", "fmt": {"bix": 128, "len": 16, "max": 65535,                     "unit": "liters" }, "name": "Post injection volume"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "08"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "08"}, "freq": 1, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "SORENTO_EMIS_MIS_TOT_1",     "path": "Engine", "fmt": {"bix": 128, "len": 16, "blsb": true, "max": 65535,                  "unit": "scalar" },                                      "name": "Emission relevant misfires total, cylinder 1"},
     {"id": "SORENTO_EMIS_MIS_TOT_2",     "path": "Engine", "fmt": {"bix": 144, "len": 16, "blsb": true, "max": 65535,                  "unit": "scalar" },                                      "name": "Emission relevant misfires total, cylinder 2"},
